@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\repos\\unreal-landscaping\\Landscaping\\Source\\Landscaping\\Landscaping.Build.cs",
+		"C:\\repos\\unreal-landscaping\\Landscaping\\Source\\Landscaping.Target.cs",
+		"C:\\repos\\unreal-landscaping\\Landscaping\\Source\\LandscapingEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.0"
+}

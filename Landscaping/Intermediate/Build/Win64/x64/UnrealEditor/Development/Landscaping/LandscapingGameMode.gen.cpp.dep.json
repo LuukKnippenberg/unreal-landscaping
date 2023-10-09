@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\repos\\unreal-landscaping\\landscaping\\intermediate\\build\\win64\\unrealeditor\\inc\\landscaping\\uht\\landscapinggamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\repos\\unreal-landscaping\\landscaping\\intermediate\\build\\win64\\x64\\landscapingeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\repos\\unreal-landscaping\\landscaping\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\landscaping\\definitions.landscaping.h",
+            "c:\\repos\\unreal-landscaping\\landscaping\\source\\landscaping\\landscapinggamemode.h",
+            "d:\\epic games library\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\epic games library\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\epic games library\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "d:\\epic games library\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\repos\\unreal-landscaping\\landscaping\\intermediate\\build\\win64\\unrealeditor\\inc\\landscaping\\uht\\landscapinggamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

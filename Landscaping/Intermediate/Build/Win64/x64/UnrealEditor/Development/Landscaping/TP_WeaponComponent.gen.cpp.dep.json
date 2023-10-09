@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\repos\\unreal-landscaping\\landscaping\\intermediate\\build\\win64\\unrealeditor\\inc\\landscaping\\uht\\tp_weaponcomponent.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\repos\\unreal-landscaping\\landscaping\\intermediate\\build\\win64\\x64\\landscapingeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\repos\\unreal-landscaping\\landscaping\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\landscaping\\definitions.landscaping.h",
+            "c:\\repos\\unreal-landscaping\\landscaping\\source\\landscaping\\tp_weaponcomponent.h",
+            "c:\\repos\\unreal-landscaping\\landscaping\\intermediate\\build\\win64\\unrealeditor\\inc\\landscaping\\uht\\tp_weaponcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

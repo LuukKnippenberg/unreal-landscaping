@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Landscaping",
+			"Path": "..\\Source\\Landscaping.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "LandscapingEditor",
+			"Path": "..\\Source\\LandscapingEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

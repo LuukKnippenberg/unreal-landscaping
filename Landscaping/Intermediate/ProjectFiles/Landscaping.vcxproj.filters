@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Landscaping.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Landscaping.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\LandscapingEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Landscaping">
+      <UniqueIdentifier>{4D9D528D-7079-345B-809A-0156F18C4515}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Landscaping\Landscaping.Build.cs">
+      <Filter>Source\Landscaping</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Landscaping\Landscaping.cpp">
+      <Filter>Source\Landscaping</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Landscaping\Landscaping.h">
+      <Filter>Source\Landscaping</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Landscaping\LandscapingCharacter.cpp">
+      <Filter>Source\Landscaping</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Landscaping\LandscapingCharacter.h">
+      <Filter>Source\Landscaping</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Landscaping\LandscapingGameMode.cpp">
+      <Filter>Source\Landscaping</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Landscaping\LandscapingGameMode.h">
+      <Filter>Source\Landscaping</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Landscaping\LandscapingPlayerController.cpp">
+      <Filter>Source\Landscaping</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Landscaping\LandscapingPlayerController.h">
+      <Filter>Source\Landscaping</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Landscaping\LandscapingProjectile.cpp">
+      <Filter>Source\Landscaping</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Landscaping\LandscapingProjectile.h">
+      <Filter>Source\Landscaping</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Landscaping\TP_PickUpComponent.cpp">
+      <Filter>Source\Landscaping</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Landscaping\TP_PickUpComponent.h">
+      <Filter>Source\Landscaping</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Landscaping\TP_WeaponComponent.cpp">
+      <Filter>Source\Landscaping</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Landscaping\TP_WeaponComponent.h">
+      <Filter>Source\Landscaping</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
